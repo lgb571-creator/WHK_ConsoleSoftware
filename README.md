@@ -2,12 +2,12 @@
 
 This was developed on the Nucleo-GO71RB stm32 on VS studio with platformIO and tested on the ILI9341 LCD and a generic 2 line LCD on a bread board.
 It hosts a software that for a project that works like a handheld console making use of both the screen and some extra components (e.g. a speak and IR sensors), the games are:
-  >PONG
-  >Bunny Jumper
-  >Risky Road
-  >IR Rhythm
-  >RPG
->Settings (Not a game obviously)
+  -PONG
+  -Bunny Jumper
+  -Risky Road
+  -IR Rhythm
+  -RPG
+-Settings (Not a game obviously)
 The overall software has some "Jank" and "Kinks" due to it being a 1st Year Uni project but overall runs as intended which each game attempting to make full use of compents despite some limitations of the light weight hardware.
 
 // ============================================================
