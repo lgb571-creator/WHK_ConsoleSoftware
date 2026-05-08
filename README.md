@@ -1,5 +1,7 @@
 # WHK_ConsoleSoftware
 
+**NOTICE: This uses the 5 libraries that can be seen at the top of the main.cpp file most importantly Adafruit ones as that allows grahpical use of the ILI9341.**__
+
 This was developed on the Nucleo-GO71RB stm32 on VS studio with platformIO and tested on the ILI9341 LCD and a generic 2 line LCD on a bread board.
 It hosts a software that for a project that works like a handheld console making use of both the screen and some extra components (e.g. a speak and IR sensors), the games are:
 
