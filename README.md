@@ -61,3 +61,15 @@ _**Buttons**_
 //  Buzzer   → D5   (PWM capable)
 
 // ============================================================
+
+<img width="513" height="486" alt="image" src="https://github.com/user-attachments/assets/fa9ba745-4485-4b6a-8321-e2c17fcb66c7" />
+
+<img width="472" height="530" alt="image" src="https://github.com/user-attachments/assets/8a1ff19d-8c30-4b1b-a830-749333f5039e" />
+
+<img width="392" height="430" alt="image" src="https://github.com/user-attachments/assets/8bf5a3b6-00ea-4075-bb3b-d509ff90b2ad" />
+
+<img width="388" height="438" alt="image" src="https://github.com/user-attachments/assets/332cc249-599b-41ba-8042-0624bd73f3c4" />
+
+
+
+
